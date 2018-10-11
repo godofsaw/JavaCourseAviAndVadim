@@ -32,7 +32,7 @@ public class Welcome extends JFrame {
                 + File.separator + "log4j.xml";
         DOMConfigurator.configure(log4jConfigFile);*/
 
-        BasicConfigurator.configure();
+        //BasicConfigurator.configure();
 
         FileHandler fh;
         fh = new FileHandler(logPath);
