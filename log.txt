@@ -1,0 +1,2 @@
+Oct 11, 2018 2:45:58 PM Gui.Welcome main
+INFO: My first log
